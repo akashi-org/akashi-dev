@@ -1,4 +1,4 @@
-Individual Contributor License Agreement ("Agreement") V2.0
+Individual Contributor License Agreement ("Agreement")
 ============================================================
 
 Thank you for your interest in Akashi project("We" or "Us").
