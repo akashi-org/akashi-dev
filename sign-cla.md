@@ -43,6 +43,6 @@ Replace the bracketed text as follows:
 * `[YOUR_GITHUB_USERNAME]` with your GitHub username.
 * `[CURRENT_CLA_CHECKSUM]` is the checksum you got in the step 2.
 
-## 4. Create your pull request and wait for it be merged
+## 4. Create your pull request and wait for it to be merged
 
 Create your pull request with the single file you added in the step 3, and wait for us to merge it. **Please note that the CLA can be updated in the future, and every time it is updated, you have to sign the new CLA**.
